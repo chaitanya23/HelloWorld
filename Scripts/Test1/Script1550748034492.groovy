@@ -19,7 +19,7 @@ WebUI.navigateToUrl('http://automationpractice.com/index.php')
 
 WebUI.click(findTestObject('Object Repository/Page_My Store/a_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login - My Store/input_Email address_email_crea'), 'harindra9655@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_Login - My Store/input_Email address_email_crea'), 'harindra9hfg@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_Login - My Store/span_Create an account'))
 

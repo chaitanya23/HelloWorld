@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Jenkins_sample,Chrome 72.0.3626.119,,2019-03-06 16:57:01,2019-03-06 16:57:43,42.544s,PASSED
+,,,,,,
+Test Cases/Test1,Chrome 72.0.3626.119,,2019-03-06 16:57:01,2019-03-06 16:57:42,41.095s,PASSED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 16:57:02,2019-03-06 16:57:10,7.434s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 72.0.3626.119,,2019-03-06 16:57:10,2019-03-06 16:57:24,14.440s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 72.0.3626.119,,2019-03-06 16:57:24,2019-03-06 16:57:28,3.810s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email_crea""), ""harindra9655@gmail.com"")",Chrome 72.0.3626.119,,2019-03-06 16:57:28,2019-03-06 16:57:28,0.368s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Create an account""))",Chrome 72.0.3626.119,,2019-03-06 16:57:28,2019-03-06 16:57:28,0.245s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/label_Mr.""))",Chrome 72.0.3626.119,,2019-03-06 16:57:28,2019-03-06 16:57:31,2.320s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input__customer_firstname""), ""sai"")",Chrome 72.0.3626.119,,2019-03-06 16:57:31,2019-03-06 16:57:31,0.513s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input__customer_lastname""), ""chaitanya"")",Chrome 72.0.3626.119,,2019-03-06 16:57:31,2019-03-06 16:57:32,0.296s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Login - My Store/input__passwd""), ""Q8TwuC9x88h6/IgFSBLPaA=="")",Chrome 72.0.3626.119,,2019-03-06 16:57:32,2019-03-06 16:57:32,0.454s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Login - My Store/select_-1234567891011121314151""), ""15"", true)",Chrome 72.0.3626.119,,2019-03-06 16:57:32,2019-03-06 16:57:33,0.922s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Login - My Store/select_-JanuaryFebruaryMarchAp""), ""6"", true)",Chrome 72.0.3626.119,,2019-03-06 16:57:33,2019-03-06 16:57:33,0.385s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Login - My Store/select_-2019201820172016201520""), ""2006"", true)",Chrome 72.0.3626.119,,2019-03-06 16:57:33,2019-03-06 16:57:36,2.799s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input__address1""), ""18,t nagar,chennai"")",Chrome 72.0.3626.119,,2019-03-06 16:57:36,2019-03-06 16:57:37,0.476s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input__city""), ""chennai"")",Chrome 72.0.3626.119,,2019-03-06 16:57:37,2019-03-06 16:57:37,0.265s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Login - My Store/select_-AlabamaAlaskaArizonaAr""), ""51"", true)",Chrome 72.0.3626.119,,2019-03-06 16:57:37,2019-03-06 16:57:38,1.507s,PASSED
+"setText(findTestObject(""Page_Login - My Store/input__postcode""), ""60009"")",Chrome 72.0.3626.119,,2019-03-06 16:57:38,2019-03-06 16:57:39,0.307s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input__phone_mobile""), ""9502752579"")",Chrome 72.0.3626.119,,2019-03-06 16:57:39,2019-03-06 16:57:39,0.319s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Register""))",Chrome 72.0.3626.119,,2019-03-06 16:57:39,2019-03-06 16:57:42,3.338s,PASSED
