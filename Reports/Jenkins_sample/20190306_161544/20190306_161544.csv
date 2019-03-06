@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Jenkins_sample,Chrome 72.0.3626.119,,2019-03-06 16:15:59,2019-03-06 16:16:40,41.404s,FAILED
+,,,,,,
+Test Cases/Test1,Chrome 72.0.3626.119,,2019-03-06 16:15:59,2019-03-06 16:16:39,39.276s,FAILED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 16:16:01,2019-03-06 16:16:17,15.652s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 72.0.3626.119,,2019-03-06 16:16:17,2019-03-06 16:16:30,12.948s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 72.0.3626.119,,2019-03-06 16:16:30,2019-03-06 16:16:34,4.242s,PASSED
+"setText(findTestObject(""Object Repository/Page_Login - My Store/input_Email address_email_crea""), ""harindra967@gmail.com"")",Chrome 72.0.3626.119,,2019-03-06 16:16:34,2019-03-06 16:16:36,2.063s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/span_Create an account""))",Chrome 72.0.3626.119,,2019-03-06 16:16:36,2019-03-06 16:16:36,0.217s,PASSED
+"click(findTestObject(""Object Repository/Page_Login - My Store/label_Mr.""))",Chrome 72.0.3626.119,,2019-03-06 16:16:36,2019-03-06 16:16:39,2.300s,FAILED

@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Jenkins_sample,Chrome 72.0.3626.119,,2019-03-06 16:18:01,2019-03-06 16:18:17,15.763s,FAILED
+,,,,,,
+Test Cases/Test1,Chrome 72.0.3626.119,,2019-03-06 16:18:02,2019-03-06 16:18:16,14.542s,FAILED
+"openBrowser("""")",Chrome 72.0.3626.119,,2019-03-06 16:18:02,2019-03-06 16:18:10,7.778s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 72.0.3626.119,,2019-03-06 16:18:10,2019-03-06 16:18:16,5.735s,PASSED
+"click(findTestObject(""Object Repository/Page_My Store/a_Sign in""))",Chrome 72.0.3626.119,,2019-03-06 16:18:16,2019-03-06 16:18:16,0.267s,FAILED
